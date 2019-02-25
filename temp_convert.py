@@ -1,3 +1,7 @@
+import time
+
+print('The current time is :', time.ctime(),'UTC')
+print('')
 print ("            M E N U")
 print ("1. Convert Celsius to Fahrenheit")
 print ("2. Convert Fahrenheit to Celsius")
